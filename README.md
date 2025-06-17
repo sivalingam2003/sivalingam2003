@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <!--
 **sivalingam2003/sivalingam2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I’m a passionate and self-driven developer with a strong interest in building clean, efficient, and scalable software. I'm currently focused on backend development, data structures & algorithms, and working on real-world mini projects to sharpen my skills.
 
 
-## 🎯 Career Objective
+## 🔭 Career Objective
 
 To obtain an entry-level position as a **Software Developer**, where I can apply my programming skills, logical thinking, and passion for technology to contribute to meaningful projects. I aim to continuously learn and grow in a collaborative and fast-paced development environment.
 
@@ -50,7 +48,7 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 - **Technologies:** Java, Spring Boot, PostgreSQL, REST APIs  
 
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 - Spring Boot & RESTful APIs  
 - LeetCode for DSA practice  
