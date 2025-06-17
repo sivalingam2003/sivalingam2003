@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I’m a passionate and self-driven developer with a strong interest in building clean, efficient, and scalable software. I'm currently focused on backend development, data structures & algorithms, and working on real-world mini projects to sharpen my skills.
 
-
 ## 🔭 Career Objective
 
 To obtain an entry-level position as a **Software Developer**, where I can apply my programming skills, logical thinking, and passion for technology to contribute to meaningful projects. I aim to continuously learn and grow in a collaborative and fast-paced development environment.
-
 
 ## 💼 Technical Skills
 
@@ -33,7 +31,6 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 - **CS Fundamentals:** OOP, Data Structures, Algorithms, Problem Solving  
 - **Version Control:** Git & GitHub
 
-
 ## 🚀 Projects
 
 ### 🏨 Hotel Reservation System
@@ -41,19 +38,10 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 - Followed layered architecture (Service, DAO) to ensure maintainability and scalability.  
 - **Technologies:** Java, JDBC, PostgreSQL, Collections, OOP  
 
-
 ### 🎓 College Event Management System
 - Designed the database and developed backend APIs using Java and Spring Boot for managing campus events.  
 - Implemented role-based access control for Admin, Staff, and Student users.  
 - **Technologies:** Java, Spring Boot, PostgreSQL, REST APIs  
-
-## 🧰 Tech Stack
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
 
 ## 🌱 Currently Learning
 
@@ -62,11 +50,9 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 - Software architecture & design patterns  
 - Building full-stack projects (coming soon)
 
-
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sivalingam-c)  
 - 📧 sivalingamc04@gmail.com  
-
 
 Thanks for visiting! I’m actively learning and building. Feel free to check out my projects or reach out for collaboration. 🙌
