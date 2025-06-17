@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I’m a passionate and self-driven developer with a strong interest in building clean, efficient, and scalable software. I'm currently focused on backend development, data structures & algorithms, and working on real-world mini projects to sharpen my skills.
 
---
+---
 
 ## 🎯 Career Objective
 
@@ -32,7 +32,7 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 
 - **Languages:** Java, Python, C++  
 - **Frameworks:** Spring Boot (Learning), REST APIs  
-- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+- **Tools:** IntelliJ IDEA, VS Code  
 - **Database:** PostgreSQL, MySQL, SQL  
 - **CS Fundamentals:** OOP, Data Structures, Algorithms, Problem Solving  
 - **Version Control:** Git & GitHub
@@ -64,9 +64,8 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sivalingam-c)  
-- 💻 [GitHub](https://github.com/sivalingam2003)  
 - 📧 sivalingamc04@gmail.com  
 
 --
 
-_Thanks for visiting! I’m actively learning and building. Feel free to check out my projects or reach out for collaboration._ 🙌
+Thanks for visiting! I’m actively learning and building. Feel free to check out my projects or reach out for collaboration. 🙌
