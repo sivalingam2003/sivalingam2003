@@ -47,6 +47,13 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 - Implemented role-based access control for Admin, Staff, and Student users.  
 - **Technologies:** Java, Spring Boot, PostgreSQL, REST APIs  
 
+## 🧰 Tech Stack
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ## 🌱 Currently Learning
 
@@ -63,12 +70,3 @@ To obtain an entry-level position as a **Software Developer**, where I can apply
 
 
 Thanks for visiting! I’m actively learning and building. Feel free to check out my projects or reach out for collaboration. 🙌
-
-
-## 🧰 Tech Stack
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
