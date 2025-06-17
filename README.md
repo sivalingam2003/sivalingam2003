@@ -16,56 +16,57 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Sivalingam C
 
-🎓 Mechanical Engineering Graduate | 💻 Aspiring Algorithm Developer | 🛠️ CAD Software Enthusiast
+💻 Aspiring Software Developer | 🚀 Problem Solver | 🌱 Lifelong Learner
 
-Welcome to my GitHub! I’m a passionate and curious individual with a strong foundation in engineering and a growing expertise in software development. My interests lie at the intersection of mechanical design, algorithm development, and CAD technologies. I'm currently exploring computational geometry, data structures, and design automation through projects and self-learning.
+Welcome to my GitHub profile! I’m a passionate and self-driven developer with a strong interest in building clean, efficient, and scalable software. I'm currently focused on backend development, data structures & algorithms, and working on real-world mini projects to sharpen my skills.
 
----
+--
 
 ## 🎯 Career Objective
 
-To begin my career as an **Algorithm Developer** in the **CAD software domain**, where I can leverage my engineering background, programming skills, and problem-solving mindset to develop high-performance, geometry-driven solutions. I’m committed to continuous learning and contributing to the development of intelligent, design-focused tools.
+To obtain an entry-level position as a **Software Developer**, where I can apply my programming skills, logical thinking, and passion for technology to contribute to meaningful projects. I aim to continuously learn and grow in a collaborative and fast-paced development environment.
 
----
+--
 
 ## 💼 Technical Skills
 
-- **Languages:** Java, C++, Python  
-- **CAD Tools:** Creo Parametric, AutoCAD, NX CAD  
-- **Databases:** PostgreSQL (basic), SQL  
-- **Concepts:** Data Structures, Algorithms, OOP, Computational Geometry  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Languages:** Java, Python, C++  
+- **Frameworks:** Spring Boot (Learning), REST APIs  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+- **Database:** PostgreSQL, MySQL, SQL  
+- **CS Fundamentals:** OOP, Data Structures, Algorithms, Problem Solving  
+- **Version Control:** Git & GitHub
 
----
+--
 
-## 📌 Projects
+## 🚀 Projects
 
-- 🔧 **Spur Gear Design Automation**  
-  Developed a Java-based tool that automates 2D gear drawing generation using design input parameters.
+- 📘 **Student Grade Tracker** – Java  
+  Developed a console-based application to manage and analyze student records using OOP.
 
-- 📊 **Student Grade Tracker (Java Mini-Project)**  
-  Command-line Java app for tracking and analyzing student performance using OOP principles.
+- 📊 **Stock Trading Simulator** – Java  
+  Simulated basic buy/sell operations with profit/loss tracking and basic logic algorithms.
 
-- 📈 **Stock Trading Platform (Java)**  
-  Simulates stock buying/selling with price tracking and profit analysis using core Java and data structures.
+- 🗂️ **File Organizer Tool** – Python  
+  Built a simple desktop script to automatically organize files into folders by file type.
 
----
+--
 
 ## 📚 Currently Learning
 
-- Advanced Algorithms  
-- CAD Software APIs  
-- Spring Boot & Backend Development  
-- LeetCode for coding practice
+- Spring Boot & RESTful APIs  
+- LeetCode for DSA practice  
+- Software architecture & design patterns  
+- Building full-stack projects (coming soon)
 
----
+--
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sivalingam-c)  
-- ✉️ sivalingamc04@gmail.com  
-- 💻 [GitHub](https://github.com/sivalingam2003)
+- 💻 [GitHub](https://github.com/sivalingam2003)  
+- 📧 sivalingamc04@gmail.com  
 
----
+--
 
-_Thanks for visiting! Feel free to explore my repositories and connect with me._ 🚀
+_Thanks for visiting! I’m actively learning and building. Feel free to check out my projects or reach out for collaboration._ 🙌
